@@ -11,4 +11,4 @@ This project is a simple web scraping that collect titles from web page and show
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/USER/web-scraper-bot.git
+   git clone https://github.com/USER/webscraping.git
